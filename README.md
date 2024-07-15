@@ -9,6 +9,17 @@ This Python script is a basic packet sniffer designed to capture HTTP requests a
 - Network Interface Details: Displays the MAC address and IP address of network interfaces.
 - Raw Packet Output: Optionally prints raw HTTP packet details.
 
+## Installation
+
+- Clone the repo
+```
+git clone https://github.com/yaxhx/ByteBuster.git
+```
+- Install the libraries
+```
+pip install -r req.txt
+```
+
 ## Usage
 
 Run the Script:
